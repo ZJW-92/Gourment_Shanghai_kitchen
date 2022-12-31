@@ -2,7 +2,7 @@
 
 A modern UI and UX restaurant menu page website avaialable for both laptop and mobile devices. 
 
-# View Demo at 👉 [shanghai-kitchen.netlify.app](https://shanghai-kitchen.netlify.app)
+# View Demo at 👉 [Shanghai Kitchen](https://shanghai-kitchen.netlify.app)
 
 ## Tech stack 
 - React.js 
