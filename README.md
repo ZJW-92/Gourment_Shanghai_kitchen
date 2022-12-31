@@ -13,7 +13,8 @@ A modern UI and UX restaurant menu page website avaialable for both laptop and m
 Run `npm install react react-icons && npm start`
 
 ## Screenshots
-
+### Laptop 
 ![screenshot](./screenshots/1.png)
+### Mobile devices
 ![screenshot](./screenshots/2.png)
 ![screenshot](./screenshots/3.png)
