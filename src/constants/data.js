@@ -1,5 +1,3 @@
-import images from './images';
-
 
 const cold_menu =[
   {
@@ -158,4 +156,8 @@ const beer_drinks = [
  
 ];
 
-export default {cold_menu, menu, beer_drinks };
+const cold_menu_menu_beer_drinks = {
+  cold_menu, menu, beer_drinks 
+}
+
+export default cold_menu_menu_beer_drinks ;
