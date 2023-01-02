@@ -18,11 +18,10 @@ import beer from '../assets/beer.png'
 import beer2 from '../assets/beer2.jpg'
 import beer3 from '../assets/beer3.jpg'
 
-export default {
-  bg,
+
+const menu_images = { bg,
   xiaolongbao,
   meat,
- 
   welcome,
   findus,
   sh,
@@ -38,5 +37,6 @@ export default {
   xunyu,
   chicken,
   duck,
+}
 
-};
+export default menu_images ;
