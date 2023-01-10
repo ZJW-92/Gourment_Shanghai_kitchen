@@ -1,8 +1,7 @@
-# Shanghai Kitchen website
+# Demo 👉 [Shanghai Kitchen](https://shanghai-kitchen.netlify.app)
 
 A modern UI and UX restaurant menu page website avaialable for both laptop and mobile devices. 
 
-# View Demo at 👉 [Shanghai Kitchen](https://shanghai-kitchen.netlify.app)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/04874db7-a6a1-42bb-9732-39bab5210afa/deploy-status)](https://app.netlify.com/sites/shanghai-kitchen/deploys)
 
