@@ -7,9 +7,9 @@ A modern UI and UX restaurant menu page website avaialable for both laptop and m
 
 
 ## Tech stack 
-- React.js 
-- React-icons 
-- CSS and CSS BEM Model 
+- ***React.js***
+- ***React-icons***
+- ***CSS and CSS BEM Model***
 
 ## Setup
 Run `npm install react react-icons && npm start`
